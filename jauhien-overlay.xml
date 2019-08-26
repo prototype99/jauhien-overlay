@@ -4,7 +4,7 @@
 <repo quality="experimental" status="unofficial">
     <name>jauhien</name>
     <description>experimental ebuilds</description>
-    <homepage>https://github.com/jauhien/jauhien-overlay</homepage>
-    <source type="git">git://github.com/jauhien/jauhien-overlay.git</source>
+    <homepage>https://github.com/prototype99/jauhien-overlay</homepage>
+    <source type="git">git://github.com/prototype99/jauhien-overlay.git</source>
 </repo>
 </repositories>
